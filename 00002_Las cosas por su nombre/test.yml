@@ -16,6 +16,3 @@ examples:
      cell 2 1 Negro 1
      cell 2 2 Negro 1
      head 2 2
- hasBinding
-programa HasUsage: SembrarCuadradoNegroDeLado3
-
