@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: Declares:Sembrar Tomate
+- binding: "*"
+  inspection: Uses:Sembrar Tomate
