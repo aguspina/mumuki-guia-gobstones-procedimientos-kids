@@ -1,1 +1,1 @@
-Agregar los tres `Poner` dentro del procedimiento `Sembrar Papa`. 
+El tractor de Wille siembre papas cuando ponemos 3 bolitas negras, así que agregá los tres `Poner` dentro del procedimiento `Sembrar Papa`. 
