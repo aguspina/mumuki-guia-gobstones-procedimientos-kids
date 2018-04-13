@@ -1,0 +1,1 @@
+Agregar los tres `Poner` dentro del procedimiento `Sembrar Papa`. 
