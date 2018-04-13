@@ -2,4 +2,4 @@ Ah, ¡pero a los tomates no les gusta estar solos! Vamos a sembrarlos en cantero
 
 Lo bueno es que ya no nos tenemos que preocupar por _cómo_ plantar tomates, porque ahora contamos con `Sembrar Tomate`. 
 
-> ¡Sembrá un cantero de tomate! 
+> ¡Sembrá un cantero de tomate! Definí el procedimiento `Sembrar Cantero De Tomate` e invocalo desde el `programa`
