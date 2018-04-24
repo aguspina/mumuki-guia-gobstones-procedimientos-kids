@@ -1,1 +1,1 @@
-El tractor de Wille siembra papa cuando ponemos 3 bolitas negras, así que agregá los tres `Poner` dentro del procedimiento `Sembrar Papa`. 
+El tractor de Wille siembra choclo cuando ponemos 3 bolitas negras, así que agregá los tres `Poner` dentro del procedimiento `Sembrar Choclo`. 

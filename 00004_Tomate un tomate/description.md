@@ -1,4 +1,4 @@
-En el ejercicio anterior definiste el procedimiento `Sembrar Papa`, que a partir de ahora Mukinita entenderá y sabrá qué hacer cuando lo invoquemos en el programa. 
+En el ejercicio anterior definiste el procedimiento `Sembrar Choclo`, que a partir de ahora Mukinita entenderá y sabrá qué hacer cuando lo invoquemos en el programa. 
 
 Definamos más procedimientos para que Mukinita siga aprendiendo. :memo: 
 

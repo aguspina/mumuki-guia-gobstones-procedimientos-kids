@@ -1,1 +1,1 @@
-Y ¿por qué 3 bolitass rojas? De nuevo, porque así es como el tractor de Wille entiende que hay sembrar tomate. 
+Y ¿por qué 2 bolitass rojas? De nuevo, porque así es como el tractor de Wille entiende que hay que sembrar tomate. 
