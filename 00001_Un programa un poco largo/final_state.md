@@ -1,7 +1,7 @@
 <gs-board> GBB/1.0
 size 4 4
 cell 0 0 Verde 3
-cell 0 1 Verde 3
-cell 0 2 Verde 3
-head 0 2
+cell 1 0 Verde 3
+cell 2 0 Verde 3
+head 2 0
  </gs-board>
