@@ -1,1 +1,1 @@
-Y ¿por qué 2 bolitass rojas? De nuevo, porque así es como el tractor de Wille entiende que hay que sembrar tomate. 
+Y ¿por qué 4 bolitass rojas? De nuevo, porque así es como el tractor de Wille entiende que hay que sembrar tomate: es su forma de _representarlo_. 
