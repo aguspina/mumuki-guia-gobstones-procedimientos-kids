@@ -2,4 +2,6 @@ Willie el jardinero quiere hacer una huerta para tener sus frutas y verduras fre
 
 El tractor no conoce el terreno, así que para moverse y sembrar hay que conectarlo a Mukinita y programarlo. Peeero, como Willie no sabe de programación, nos pidió ayuda. 
 
+<gs-attire src="https://github.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/blob/master/assets/jardin.zip?raw=true"> 
+
 > Para conocer cómo funciona el tractor, te dejamos el primer programa armado que siembra lechuga. Tratá de entenderlo y luego ejecutalo para ver qué hace. 
