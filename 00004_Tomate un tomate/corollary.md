@@ -1,0 +1,1 @@
+¡Excelente! Ya tenemos tres procedimientos (`Sembrar Lechuga`, `Sembrar Choclo` y `Sembrar Tomate`) que podremos invocar todas las veces que queramos, como cualquier otro comando... ¡Y solo los tuvimos que definir una vez! :scream:
