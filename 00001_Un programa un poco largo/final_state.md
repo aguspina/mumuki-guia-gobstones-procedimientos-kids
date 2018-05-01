@@ -3,5 +3,6 @@ size 4 4
 cell 0 0 Verde 3
 cell 1 0 Verde 3
 cell 2 0 Verde 3
-head 2 0
+cell 3 0 Verde 3
+head 3 0
  </gs-board>
