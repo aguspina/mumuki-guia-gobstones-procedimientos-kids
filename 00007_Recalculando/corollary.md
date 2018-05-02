@@ -1,1 +1,0 @@
-¡Bien! ¡Ya estás dominando los procedimientos!
