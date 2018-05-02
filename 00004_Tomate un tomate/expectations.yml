@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: "*"
-  inspection: Declares:Sembrar Tomate
+  inspection: Declares:SembrarTomate
 - binding: "*"
-  inspection: Uses:Sembrar Tomate
+  inspection: Uses:SembrarTomate
