@@ -1,3 +1,7 @@
+<gs-attire 
+  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/master/assets/attires/config.json">
+</gs-attire>
+
 En el ejercicio anterior definiste el procedimiento `Sembrar Choclo`, que a partir de ahora Mukinita entenderá y sabrá qué hacer cuando lo invoquemos desde el `programa`. 
 
 Definamos más procedimientos para que Mukinita siga aprendiendo. :memo: 

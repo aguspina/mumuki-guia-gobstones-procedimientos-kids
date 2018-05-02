@@ -1,3 +1,7 @@
+<gs-attire 
+  attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/master/assets/attires/config.json">
+</gs-attire>
+
 Mukinita no solo entiende `Mover`, `Poner` y `Sacar`, sino que supo también qué hacer cuando le dijimos `Sembrar Lechuga`. Y así como nosotros estamos aprendiendo cosas nuevas, ella aprende de nosotros. :blush:
 
 Las acciones básicas que ya sabe (`Mover`, `Poner` y `Sacar`) se llaman comandos primitivos, y son como las primeras palabras que aprendemos de bebés. 
