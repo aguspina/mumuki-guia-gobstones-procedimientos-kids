@@ -1,10 +1,10 @@
 ---
 expectations:
 - binding: "*"
-  inspection: Uses:Sembrar Cantero De Tomates
+  inspection: Uses:SembrarCanteroDeTomate
 - binding: "*"
-  inspection: Not:Declares:Sembrar Tomates
+  inspection: Not:Declares:SembrarTomate
 - binding: "*"
-  inspection: Not:Uses:Sembrar Tomates
+  inspection: Not:Uses:SembrarTomate
 - binding: "*"
-  inspection: Not:Declares:Sembrar Cantero De Tomates
+  inspection: Not:Declares:SembrarCanteroDeTomate
