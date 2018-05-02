@@ -8,3 +8,6 @@
   <block type="ColorSelector"></block>
   <block type="DireccionSelector"></block>
 </category>
+
+<category name="Mis procedimientos" custom="PROCEDURE_CALLS">
+</category>
