@@ -1,1 +1,1 @@
-Esto quizás parezca difícil, ¡pero no lo es! Sólo tenés que arrastrar los bloques que están en el `programa` hasta `Sembrar Hiera de Lechugas`. Y después, invocá este procedimiento desde dentro del `programa.`
+Esto quizás parezca difícil, ¡pero no lo es! Sólo tenés que arrastrar los bloques que están en el `programa` hasta `Sembrar Hilera de Lechugas`. Y después, invocá este procedimiento desde dentro del `programa.`
