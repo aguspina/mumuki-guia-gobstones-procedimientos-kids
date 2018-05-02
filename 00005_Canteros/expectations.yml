@@ -4,5 +4,5 @@ expectations:
   inspection: Declares:SembrarCanteroDeTomate
 - binding: "*"
   inspection: Uses:SembrarCanteroDeTomate
-- binding: Sembrar Cantero De Tomate
+- binding: SembrarCanteroDeTomate
   inspection: Uses:SembrarTomate
