@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: Uses:SembrarCanteroDeTomates
+- binding: "*"
+  inspection: Uses:SembrarHileraDeLechugas
