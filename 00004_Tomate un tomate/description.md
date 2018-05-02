@@ -1,12 +1,12 @@
-<gs-attire 
+<gs-attire
   attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/master/assets/attires/config.json">
 </gs-attire>
-<gs-toolbox 
-  toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/toolbox.xml">
+<gs-toolbox
+  toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/master/assets/toolbox.xml">
 </gs-toolbox>
 
-En el ejercicio anterior definiste el procedimiento `Sembrar Choclo`, que a partir de ahora Mukinita entenderá y sabrá qué hacer cuando lo invoquemos desde el `programa`. 
+En el ejercicio anterior definiste el procedimiento `Sembrar Choclo`, que a partir de ahora Mukinita entenderá y sabrá qué hacer cuando lo invoquemos desde el `programa`.
 
-Definamos más procedimientos para que Mukinita siga aprendiendo. :memo: 
+Definamos más procedimientos para que Mukinita siga aprendiendo. :memo:
 
-> ¡Ahora es el turno de sembrar tomates :tomato:! Completá el procedimiento `Sembrar Tomate`, para que ponga 4 bolitas rojas. 
+> ¡Ahora es el turno de sembrar tomates :tomato:! Completá el procedimiento `Sembrar Tomate`, para que ponga 4 bolitas rojas.
