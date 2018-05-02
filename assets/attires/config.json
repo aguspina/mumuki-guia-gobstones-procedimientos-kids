@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+  "rules": [
+    {
+      "when": { "blue": 0, "black": 0, "red": 0, "green": 0 },
+      "image": "tierra_seca.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 4, "green": 0 },
+      "image": "planta_tomate.png"
+    },
+    {
+      "when": { "blue": 0, "black": 0, "red": 0, "green": 2 },
+      "image": "planta_lechuga.png"
+    },
+    {
+      "when": { "blue": 0, "black": 3, "red": 0, "green": 0 },
+      "image": "planta_choclo.png"
+    }
+  ]
+}
