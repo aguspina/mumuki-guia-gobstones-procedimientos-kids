@@ -2,9 +2,3 @@
 expectations:
 - binding: "*"
   inspection: Uses:SembrarCanteroDeTomates
-- binding: "*"
-  inspection: Not:Declares:SembrarTomate
-- binding: "*"
-  inspection: Not:Uses:SembrarTomate
-- binding: "*"
-  inspection: Not:Declares:SembrarCanteroDeTomates
