@@ -4,3 +4,5 @@ expectations:
   inspection: Uses:SembrarCanteroDeTomates
 - binding: "*"
   inspection: Uses:SembrarHileraDeLechugas
+- binding: "*"
+  inspection: Uses:SembrarChoclo
