@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: "*"
-  inspection: Declares:SembrarHileraDeLechugass
+  inspection: Declares:SembrarHileraDeLechugas
 - binding: "*"
-  inspection: Uses:SembrarHileraDeLechuga
+  inspection: Uses:SembrarHileraDeLechugas
