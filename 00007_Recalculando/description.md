@@ -1,6 +1,9 @@
 <gs-attire 
   attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/master/assets/attires/config.json">
 </gs-attire>
+<gs-toolbox 
+  toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/toolbox.xml">
+</gs-toolbox>
 
 Ahora que ya estamos entendiendo los procedimientos, nos gustaría tener un procedimiento `Sembrar Hilera de Lechuga` que, como hacíamos al principio, plante 4 lechugas en línea. 
 
