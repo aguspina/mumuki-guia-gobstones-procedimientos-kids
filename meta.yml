@@ -3,10 +3,7 @@ name: Procedimientos
 locale: es
 type: learning
 beta: false
-teacher_info: "## Codificación: \n\nTierra Humeda -> 2 azules.\nChoclo Humeda -> 2
-  azules y 3 negras.\nTomate Humeda -> 2 azules y 4 rojas.\nLechuga Humeda -> 2 azules
-  y 2 verdes.\n\nLechuga -> 2 verdes\nHilera lechuga -> 4 lechugas hacia el este\nChoclo
-  -> 3 bolitas negras\nTomate -> 4 bolitas rojas\nCantero -> 2 tomates en linea"
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order:
@@ -18,3 +15,4 @@ order:
 - 6
 - 7
 - 8
+private: false

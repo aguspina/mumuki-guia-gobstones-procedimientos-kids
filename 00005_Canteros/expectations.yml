@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Declares:SembrarCanteroDeTomates
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Uses:SembrarCanteroDeTomates
-- binding: SembrarCanteroDeTomates
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: SembrarCanteroDeTomates
   inspection: Uses:SembrarTomate

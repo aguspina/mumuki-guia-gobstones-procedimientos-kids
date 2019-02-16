@@ -11,6 +11,6 @@ Las acciones básicas que ya sabe (`Mover`, `Poner` y `Sacar`) se llaman comando
 
 Pero las tareas más complejas que definimos y le enseñamos se llaman procedimientos, porque son conjuntos de acciones a realizar. ¡Enseñémosle más tareas! :smiley:
 
-> Este programa pone choclos en el centro del tablero, ¡pero está incompleto! Completá el procedimiento `Sembrar Choclo` para que ponga 3 bolitas negras en donde estamos parados.
+> Este programa pone choclos en el centro del tablero, ¡pero está incompleto! Completá el procedimiento `Sembrar Choclo` para que ponga 3 bolitas negras en donde quedamos parados.
 
 
