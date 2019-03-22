@@ -1,9 +1,7 @@
 <gs-attire
   attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/master/assets/attires/config.json">
 </gs-attire>
-<gs-toolbox
-  toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/master/assets/toolbox.xml">
-</gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/master/assets/toolbox_1553288414373.xml"></gs-toolbox>
 
 Mukinita no solo entiende `Mover`, `Poner` y `Sacar`, sino que supo también qué hacer cuando le dijimos `Sembrar Lechuga`. Y así como nosotros estamos aprendiendo cosas nuevas, ella aprende de nosotros. :blush:
 
