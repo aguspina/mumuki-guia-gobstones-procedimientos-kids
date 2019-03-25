@@ -3,8 +3,8 @@
 </gs-attire>
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-procedimientos-kids/master/assets/toolbox_1553288414373.xml"></gs-toolbox>
 
-Ahora que ya estamos entendiendo los procedimientos, nos gustaría tener un procedimiento `Sembrar Hilera de Lechugas` que, como hacíamos al principio, plante 4 lechugas en línea.
+Ahora que ya estamos entendiendo los procedimientos :grin:, nos gustaría tener un procedimiento `Sembrar Hilera de Lechugas` que, como hacíamos al principio, plante 4 lechugas en línea.
 
-Pero claro, ¡la gracia de esto es que ahora vamos a poder llamarlo muchas veces!
+Pero claro, ¡la gracia de esto es que ahora vamos a poder llamarlo muchas veces! :sunglasses:
 
-> Modificá el programa para que, en lugar de llamar 4 veces a `Sembrar Lechuga`, llame a `Sembrar Hilera de Lechuga`, que se encargará de sembrar la lechuga y moverse. Ah, y sí, también tenés que completar `Sembrar Hilera de Lechugas` :stuck_out_tongue:
+> Modificá el `programa` para que, en lugar de llamar 4 veces a `Sembrar Lechuga`, llame a `Sembrar Hilera de Lechuga`, que se encargará de sembrar la lechuga y moverse. Ah, y sí, también tenés que completar `Sembrar Hilera de Lechugas`. :stuck_out_tongue:
