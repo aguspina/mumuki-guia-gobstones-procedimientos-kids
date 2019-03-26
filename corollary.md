@@ -1,3 +1,3 @@
-¡Muuuuuuuy bien! Los procedimientos no son algo fácil al principio :sweat_smile:, pero una vez que le tomás la mano no parecen nada tan complejo, ¿verdad? :sunglasses:
+¡Muuuuuuuy bien! Los procedimientos no son fáciles al principio :sweat_smile:, pero una vez que le tomás la mano no parecen tan complejos, ¿verdad? :sunglasses:
 
 Los procedimientos nos van a permitir crear programas muy poderosos :muscle: sin tener que estar pensando en cada pequeño detalle: nos va a permitir abstraernos y hacer cosas súper interesantes sin tener que pensar en cuantas bolitas poner. :grin:
