@@ -1,1 +1,1 @@
-Lo bueno es que `Sembrar Hilera de Lechugas` no hace falta hacerlo de cero, porque ya lo tenés resuelto en el programa. ¡Solo faltaba darle un nombre! :stuck_out_tongue_winking_eye:
+Lo bueno es que no hace falta hacer de cero `Sembrar Hilera de Lechugas`, porque ya lo tenés resuelto en el programa. ¡Solo faltaba darle un nombre! :stuck_out_tongue_winking_eye:
