@@ -1,1 +1,1 @@
-Esto quizás parezca difícil, ¡pero no lo es! Sólo tenés que arrastrar los bloques que están en el `programa` hasta `Sembrar Hilera de Lechugas`. Y después, invocá este procedimiento desde dentro del `programa.`
+Lo bueno es que `Sembrar Hilera de Lechugas` no hace falta hacerlo de cero, porque ya lo tenés resuelto en el programa. ¡Solo faltaba darle un nombre! :stuck_out_tongue_winking_eye:
