@@ -1,0 +1,11 @@
+---
+expectations:
+  - !ruby 
+    binding: "*"
+    inspection: Uses:SembrarCanteroDeTomates
+  - !ruby 
+    binding: "*"
+    inspection: Uses:SembrarHileraDeLechugas
+  - !ruby 
+    binding: "*"
+    inspection: Uses:SembrarChoclo
