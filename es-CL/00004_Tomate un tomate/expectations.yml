@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: "*"
+    inspection: Declares:SembrarTomate
+  - !ruby 
+    binding: "*"
+    inspection: Uses:SembrarTomate
