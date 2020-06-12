@@ -1,0 +1,8 @@
+---
+expectations:
+  - !ruby 
+    binding: "*"
+    inspection: Uses:SembrarCanteroDeTomates
+  - !ruby 
+    binding: Intransitive:program
+    inspection: Not:Uses:SembrarTomate
