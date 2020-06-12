@@ -1,0 +1,11 @@
+---
+expectations:
+  - !ruby 
+    binding: "*"
+    inspection: Declares:SembrarCanteroDeTomates
+  - !ruby 
+    binding: "*"
+    inspection: Uses:SembrarCanteroDeTomates
+  - !ruby 
+    binding: SembrarCanteroDeTomates
+    inspection: Uses:SembrarTomate
